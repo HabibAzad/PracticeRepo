@@ -8,6 +8,7 @@ public class CloneAndPull {
 		
 		
 			System.out.println("GitHub class practice");
+			System.out.println("a+b+c");
 			
 		}
 		
